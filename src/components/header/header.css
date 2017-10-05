@@ -1,0 +1,27 @@
+/*color active */
+.activeNav {
+  color:#ffffff!important;
+  /*background-color:#e7e7e7!important;*/
+}
+
+/*color dropdown list active*/
+.dropdown-item.active, .dropdown-item:active {
+    /*color: #d3d3d3;
+    text-decoration: none;*/
+    background-color: #fff;
+}
+
+/*color dropdown list on hover*/
+.dropdown-item:hover {
+    color: rgba(255,255,255,.75);
+    background: #343A40;
+    /*text-decoration: none;*/    
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    background:#343A40;
+	}
+
+.dropdown-item{
+	color:rgba(255,255,255,.5);
+	}
